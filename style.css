@@ -1,0 +1,14 @@
+body{
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    border: 5px solid black;
+    border-radius: 10px ;
+}
+u{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
