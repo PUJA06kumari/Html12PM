@@ -12,3 +12,7 @@ u{
     justify-content: center;
     align-items: center;
 }
+figcaption h2
+{
+    margin-left: 150px;
+}
